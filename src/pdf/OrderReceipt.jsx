@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     marginBottom: 24,
   },
   brand: {
-    color: "#3ddc91",
+    color: "#14b8a6",
     fontSize: 22,
     fontFamily: "Helvetica-Bold",
   },
