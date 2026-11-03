@@ -5,7 +5,7 @@
 }
 .menu-item {
   border-bottom: 1px solid #ededed;
-  color: #18583a;
+  color: #115e59;
   display: inline-block;
   font-family: "DM Mono", "sans-serif";
   font-size: 16px;
@@ -16,7 +16,7 @@
 }
 
 .menu-item:hover {
-  color: #3ddc91;
+  color: #14b8a6;
 }
 
 /* ===============Burger button styling==================== */
@@ -71,7 +71,7 @@
 .submenu-chevron {
   display: inline-block;
   margin-left: 6px;
-  border: solid #18583a;
+  border: solid #115e59;
   border-width: 0 2px 2px 0;
   padding: 3px;
   transform: rotate(45deg);

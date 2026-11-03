@@ -39,7 +39,7 @@
 
 a:hover .inventory_item_name,
 .btn.btn_secondary.inventory_details_back_button:hover {
-  color: #3ddc91;
+  color: #14b8a6;
 }
 
 .inventory_details_container .inventory_details_desc {
@@ -70,7 +70,7 @@ a:hover .inventory_item_name,
 
 .left_component .btn_secondary.back {
   background-color: #fff;
-  color: #18583a;
+  color: #115e59;
   border: none;
 }
 
